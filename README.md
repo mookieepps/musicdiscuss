@@ -1,9 +1,11 @@
-# Music Discuss
+# Music Discuss (OPEN SOURCE)
 
 CPSC 4720 Software Engineering, Reginald Malik Epps Jr. 
 Professor: Paige Rodgehero 
 
 # Desciption 
-Music Discuss is a web application where new release and up to date albums can be opened discuessed online.  
+Music Discuss is a web application where new topics of singles of new release music is discussed and debated.
 
 # Requirements
+
+
