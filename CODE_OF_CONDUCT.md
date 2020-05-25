@@ -10,10 +10,10 @@ We want a harassment free environment for everybody.  No down talk and harassmen
 Examples of behavior that contributes to creating a positive environment
 include:
 
-*Be Nice
-*Be Respectful
-*Be Kind 
-*Be Professional
+* Be Nice
+* Be Respectful
+* Be Kind 
+* Be Professional
 
 Examples of unacceptable behavior by participants include:
 
