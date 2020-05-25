@@ -17,10 +17,10 @@ include:
 
 Examples of unacceptable behavior by participants include:
 
-*No Slander
-*No Advertising
-*No Offensive Comments
-*No Disrespect
+* No Slander
+* No Advertising
+* No Offensive Comments
+* No Disrespect
 
 ## Our Responsibilities
 
