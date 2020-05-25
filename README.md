@@ -19,6 +19,9 @@ Instead of the usual normal ratings as a album as a whole.  Each song from a new
 # Structure 
 This web application will need to follow as a open ended review/discussion.  Everything will only be based on only music. Music that has been licenesed or music that may be from other services.  
 
+# Goal
+The goal of this web application is to present artists a open source work platform to where they can maybe update their own singles and possibily change productions, sounds, possibly could add other artists, and complete a song to its best ability.
+
 
 
 
